@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML - CSS<br>👯 I’m looking to collaborate on Full Stack Project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning MQ-BT<br>💬 Ask me about Developing And Programing<br>⚡ Fun fact 
+🔭 I’m currently working on C language<br>👯 I’m looking to collaborate on Full Stack Project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning MQ-BT<br>💬 Ask me about Developing And Programing<br>⚡ Fun fact 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
