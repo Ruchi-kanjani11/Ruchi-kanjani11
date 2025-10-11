@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C language<br>👯 I’m looking to collaborate on Full Stack Project<br>🌱 I’m currently learning C language<br>💬 Ask me about Developing And Programing<br>
+👯 I’m looking to collaborate on Full Stack Project<br>🌱 I’m currently learning C language<br>💬 Ask me about Developing And Programing<br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
